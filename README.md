@@ -1,16 +1,7 @@
-# listview_consumo_de_api_basico
+# My first Flutter app
 
-A new Flutter project.
+A simple Flutter app with web requisition and listview to show the list of peoples in the Adobe Org github (<https://github.com/orgs/adobe/people>).
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](/lib/screenshots/Screenshot_20240709_113203.png)
